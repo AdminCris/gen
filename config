@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "Servers": [
     {
       "Name": "test PREMIUM",
@@ -35,5 +35,5 @@
   "SSLNetworks": [],
   "UDPCustom": [],
   "DNSTT": [],
-  "Notes": "test my configuration update"
+  "Notes": "text testing update"
 }
