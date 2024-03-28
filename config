@@ -1,1 +1,39 @@
-
+{
+  "Version": "1.0.1",
+  "Servers": [
+    {
+      "Name": "test PREMIUM",
+      "ServerIPHost": "dsds",
+      "Category": "PREMIUM",
+      "OpenVPNTCPPort": "444",
+      "OpenVPNSSLPort": "44",
+      "UDPCustomPort": "",
+      "DefaultProxyIP": "ss",
+      "DefaultProxyPort": "44",
+      "ServerUser": "sss",
+      "ServerPass": "saaa",
+      "OpenVPNConfig": "",
+      "isCustomConfig": false,
+      "isAutoLogin": true
+    }
+  ],
+  "SSH": [
+    {
+      "Name": "test PREMIUM",
+      "ServerIP": "dss",
+      "Category": "PREMIUM",
+      "ServerPort": "444",
+      "SSLPort": "44",
+      "ProxyIP": "xss",
+      "ProxyPort": "544",
+      "ServerUser": "sss",
+      "ServerPass": "sss",
+      "isAutoLogin": true
+    }
+  ],
+  "Networks": [],
+  "SSLNetworks": [],
+  "UDPCustom": [],
+  "DNSTT": [],
+  "Notes": "test"
+}
